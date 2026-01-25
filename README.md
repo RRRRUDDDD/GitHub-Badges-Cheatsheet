@@ -96,10 +96,25 @@ You can sponsor me (the author) for any amount (no minimum limit)! Even **$1** w
 > *   💖 [**Sponsor (赞助)**](https://github.com/sponsors/yuanweize) - Earn `Public Sponsor`
 
 > [!TIP]
-> **Pair Extraordinaire (合作非凡)**
-> Add `Co-authored-by: Name <email>` to your commit message when committing with a friend to unlock this badge easily.
+> **Pair Extraordinaire (合作非凡) - Detailed Guide / 详细教程**
 > 
-> 在 Commit 信息中加入共同作者字段即可轻松解锁此徽章。
+> **Goal / 目标**: Commit code with another person. / 与他人共同提交代码。
+>
+> **How to do it / 操作步骤**:
+> 1. Find a friend's email (the one they use for GitHub). / 找到朋友的 GitHub 邮箱。
+> 2. Add the `Co-authored-by` trailer to your commit message. / 在提交信息末尾加上共同作者字段。
+> 
+> **Command Example / 命令行示例**:
+> ```bash
+> git commit -m "Your commit message" -m "
+>
+> Co-authored-by: FriendName <friend@email.com>"
+> ```
+> *(Note: The empty line is required! / 注意：必须要有空行！)*
+>
+> **GitHub UI Method / 网页端操作**:
+> When you edit a file on GitHub.com and commit changes, simply paste the `Co-authored-by: ...` line into the **Extended description** box.
+> 在 GitHub 网页上修改文件时，把这行代码粘贴到提交界面的 **详细描述 (Extended description)** 框里即可。
 
 ---
 
