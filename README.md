@@ -1,5 +1,5 @@
-# 🏆 The Ultimate GitHub Badges/Achievements Guide (2025)
-## GitHub 徽章全收集攻略 (2025最新版)
+# 🏆 The Ultimate GitHub Badges/Achievements Guide (2026)
+## GitHub 徽章全收集攻略 (2026最新版)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/yuanweize/GitHub-Badges-Cheatsheet?style=social)](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/stargazers)
