@@ -66,6 +66,7 @@ You can sponsor me (the author) for any amount (no minimum limit)! Even **$1** w
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="40"/> | **Quickdraw**<br>*(快手)* | Close an issue or PR within **5 minutes** of opening.<br>1. Create a repo.<br>2. [**Open an issue**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/issues/new).<br>3. Close it immediately. | 创建议题或 PR 后 **5 分钟内** 关闭。<br>1. 新建仓库。<br>2. [**提个 Issue**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/issues/new)。<br>3. 马上自己关闭它。 |
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="40"/> | **YOLO** | Merge a Pull Request **without code review**.<br>1. Create a branch.<br>2. Make a change.<br>3. [**Open PR**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/pulls) & Merge immediately. | 直接合并 PR **无需 Review**。<br>自己给自己的仓库 [**提某个 PR**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/pulls)，然后直接 Merge。 |
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="40"/> | **Public Sponsor**<br>*(公开赞助者)* | Sponsor a developer via GitHub Sponsors.<br>[**Sponsor Me**](https://github.com/sponsors/yuanweize) to get it instantly! | 使用 GitHub Sponsors 赞助开发者。<br>点击上方 [**赞助我**](https://github.com/sponsors/yuanweize) 即可秒解！ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="40"/> | **Pair Extraordinaire**<br>*(合作非凡)* | **Co-authored Commits**.<br>Commit with a friend using `Co-authored-by`.<br>See [**Detailed Guide Below**](#-tips--tricks-小技巧). | **共同作者提交**。<br>和朋友一起提交代码（在 Commit 信息加签名）。<br>见下文 [**详细教程**](#-tips--tricks-小技巧). |
 
 ### 🟡 Intermediate / Advanced (进阶挑战)
 
@@ -81,6 +82,18 @@ You can sponsor me (the author) for any amount (no minimum limit)! Even **$1** w
 | :---: | :--- | :--- |
 | **Arctic Code Vault Contributor** | 🔒 Legacy | Contributed code to repos archived in the Arctic World Archive (2020).<br>2020 北极代码存案纪念，已绝版。 |
 | **Mars 2020 Contributor** | 🔒 Legacy | Code used in NASA's Mars 2020 Helicopter mission.<br>代码被 NASA 火星任务使用，已绝版。 |
+
+### 🟣 Highlights / Special Badges (特殊徽章)
+
+These are badges that appear in the "Highlights" section of your profile.
+这些是出现在个人主页左下角 "Highlights" 区域的特殊徽章。
+
+| Badge | Name | Description / 获取方法 |
+| :---: | :--- | :--- |
+| **Pro** | **GitHub Pro** | Upgrade to GitHub Pro subscription.<br>订阅 GitHub Pro 会员。 |
+| **Developer Program Member** | **Developer Program** | Join the [GitHub Developer Program](https://developer.github.com/program/) (Free).<br>加入 GitHub 开发者计划（免费）。 |
+| **Security Bug Bounty Hunter** | **Bug Hunter** | Report a valid security vulnerability to GitHub.<br>向 GitHub 提交有效的安全漏洞报告。 |
+| **GitHub Campus Expert** | **Campus Expert** | Apply and get accepted into the Campus Expert program.<br>申请并通过 GitHub 校园专家认证。 |
 
 ---
 
