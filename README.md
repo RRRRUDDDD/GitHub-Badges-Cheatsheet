@@ -95,6 +95,21 @@ These are badges that appear in the "Highlights" section of your profile.
 | **Security Bug Bounty Hunter** | **Bug Hunter** | Report a valid security vulnerability to GitHub.<br>[**Report Vulnerability**](https://bounty.github.com/) / 提交有效的安全漏洞报告。 |
 | **GitHub Campus Expert** | **Campus Expert** | Apply and get accepted into the Campus Expert program.<br>[**Apply**](https://education.github.com/experts) / 申请并通过 GitHub 校园专家认证。 |
 
+> [!TIP]
+> **🎓 Student Benefits (学生福利) - Free Pro Badge & More!**
+>
+> If you are a student, you can get the **Pro** badge for free by joining the **GitHub Student Developer Pack**.
+> 如果你是学生，可以通过认证学生身份免费获得 **Pro** 徽章。
+>
+> **You will get / 你将获得**:
+> *   ✅ **Free GitHub Pro** (Value $4/mo) -> **Unlocks Badge!**
+> *   🤖 **Free GitHub Copilot** (Value $10/mo)
+> *   ☁️ **Free Codespaces** (180 hours/month)
+> *   📦 **JetBrains Pack & More** (Thousands of dollars in value)
+>
+> 👉 [**Apply Now / 立即申请**](https://education.github.com/pack)
+> *(Note: Benefits usually arrive within 72 hours after verification. / 注：权益通常在验证通过后 72 小时内到账。)*
+
 ---
 
 ## 🛠 Tips & Tricks (小技巧)
