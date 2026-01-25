@@ -90,10 +90,10 @@ These are badges that appear in the "Highlights" section of your profile.
 
 | Badge | Name | Description / 获取方法 |
 | :---: | :--- | :--- |
-| **Pro** | **GitHub Pro** | Upgrade to GitHub Pro subscription.<br>订阅 GitHub Pro 会员。 |
+| **Pro** | **GitHub Pro** | Upgrade to GitHub Pro subscription.<br>[**Get Pro**](https://github.com/pricing) / 订阅 GitHub Pro 会员。 |
 | **Developer Program Member** | **Developer Program** | Join the [GitHub Developer Program](https://docs.github.com/en/integrations/concepts/github-developer-program) (Free).<br>加入 GitHub 开发者计划（免费）。 |
-| **Security Bug Bounty Hunter** | **Bug Hunter** | Report a valid security vulnerability to GitHub.<br>向 GitHub 提交有效的安全漏洞报告。 |
-| **GitHub Campus Expert** | **Campus Expert** | Apply and get accepted into the Campus Expert program.<br>申请并通过 GitHub 校园专家认证。 |
+| **Security Bug Bounty Hunter** | **Bug Hunter** | Report a valid security vulnerability to GitHub.<br>[**Report Vulnerability**](https://bounty.github.com/) / 提交有效的安全漏洞报告。 |
+| **GitHub Campus Expert** | **Campus Expert** | Apply and get accepted into the Campus Expert program.<br>[**Apply**](https://education.github.com/experts) / 申请并通过 GitHub 校园专家认证。 |
 
 ---
 
