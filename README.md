@@ -1,106 +1,108 @@
-# 🏆 The Ultimate GitHub Badges/Achievements Guide (2026)
-## GitHub 徽章全收集攻略 (2026最新版)
+# 🏆 The Ultimate GitHub Badges Guide (2026)
+## GitHub 徽章全收集攻略 (2026 最新版)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/yuanweize/GitHub-Badges-Cheatsheet?style=social)](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/stargazers)
+<div align="center">
 
-> **Goal / 目标**: Help you unlock every possible GitHub Achievement! / 帮你解锁所有 GitHub 徽章！
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/yuanweize/GitHub-Badges-Cheatsheet?style=flat-square)](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/stargazers)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yuanweize)
+
+**Unlock every GitHub verified achievement. / 解锁所有 GitHub 官方认证徽章。**
+
+[English](#english) | [中文](#chinese)
+
+</div>
+
+---
+
+> [!IMPORTANT]
+> **Help me while helping yourself! / 互惠互利！**
 >
-> **Request / 请求**: If this guide helps you, please **Star ⭐** this repository! I need 16 stars for the **Starstruck** badge! 
+> I need **16 Stars** to unlock the `Starstruck` achievement. If this guide helps you, please star this repository! ⭐
+>
+> 我需要 **16 个 Star** 来解锁 `Starstruck` 徽章。如果这份攻略对你有帮助，请帮忙点个 Star！⭐
+
+---
+
+## ⚡ Instant Badge Unlock (最快获取徽章)
+
+<div align="center">
+
+### 💖 Public Sponsor (公开赞助者)
+
+**Want this badge instantly? / 想要立刻拥有这个徽章吗？**
+
+<a href="https://github.com/sponsors/yuanweize">
+  <img src="https://github.githubassets.com/assets/sponsor-mona-635b75017dfc.png" width="100" />
+</a>
+
+</div>
+
+To unlock the **Public Sponsor** badge, you simply need to sponsor an open source developer.
+You can sponsor me (the author) for any amount (no minimum limit)! Even **$1** works!
+
+点击上方图片赞助我（作者），即可**秒解** `Public Sponsor` 徽章！
+**没有最低限制**，任意金额（如 $1）均可生效。不仅支持了开源，自己还能拿徽章，双赢！Win-win! 🚀
+
+[**👉 Click here to Sponsor & Unlock Badge / 点击这里赞助并解锁徽章**](https://github.com/sponsors/yuanweize)
+
+---
+
+## 📖 Table of Contents (目录)
+
+- [Instant Badge Unlock](#-instant-badge-unlock-最快获取徽章)
+- [Achievements List](#-achievements-list-徽章列表)
+  - [Easy / Novice](#-easy--novice-新手必拿)
+  - [Intermediate / Advanced](#-intermediate--advanced-进阶挑战)
+  - [Rare / Legacy](#-rare--legacy-稀有与绝版)
+- [Tips & Tricks](#-tips--tricks-小技巧)
+- [Credits](#-credits-致谢)
+
+---
+
+## 🏅 Achievements List (徽章列表)
+
+### 🟢 Easy / Novice (新手必拿)
+
+| Badge | Name | Description (How to Unlock) | 中文攻略 (获取方法) |
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="40"/> | **Quickdraw**<br>*(快手)* | Close an issue or PR within **5 minutes** of opening.<br>1. Create a repo.<br>2. Open an issue.<br>3. Close it immediately. | 创建议题或 PR 后 **5 分钟内** 关闭。<br>1. 新建仓库。<br>2. 提个 Issue。<br>3. 马上自己关闭它。 |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="40"/> | **YOLO** | Merge a Pull Request **without code review**.<br>1. Create a branch.<br>2. Make a change.<br>3. Merge your own PR immediately. | 直接合并 PR **无需 Review**。<br>自己给自己的仓库提 PR，然后直接 Merge。最简单就是改个标点符号。 |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="40"/> | **Public Sponsor**<br>*(公开赞助者)* | Sponsor a developer via GitHub Sponsors.<br>[**Sponsor Me**](https://github.com/sponsors/yuanweize) to get it instantly! | 使用 GitHub Sponsors 赞助开发者。<br>点击上方 [**赞助我**](https://github.com/sponsors/yuanweize) 即可秒解！ |
+
+### 🟡 Intermediate / Advanced (进阶挑战)
+
+| Badge | Name | Tiers (Levels) | How to Unlock / 攻略 |
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="40"/> | **Pull Shark**<br>*(合并鲨鱼)* | 🥉 2 PRs<br>🥈 16 PRs<br>🥇 1024 PRs | **Merged Pull Requests**.<br>Keep contributing code or docs fixes to any repository.<br>只要你的 PR 被合并就算。多去改改文档、修修错别字。 |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="40"/> | **Galaxy Brain**<br>*(银河大脑)* | 🥉 2 Answers<br>🥈 8 Answers<br>🥇 16 Answers | **Accepted Answers in Discussions**.<br>Answer questions in repos with "Discussions". The author must mark it as "Accepted".<br>在 Discussions 区回答问题并被提问者采纳。 |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="40"/> | **Starstruck**<br>*(星光熠熠)* | 🥉 16 Stars<br>🥈 128 Stars<br>🥇 512 Stars | **Repo Stars**.<br>Create a popular repo. [**Please Star this repo!**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet)<br>你的某个仓库获得足够多的 Star。**求求给个星吧！** |
+
+### 🔴 Rare / Legacy (稀有与绝版)
+
+| Badge | Status | Description / 说明 |
+| :---: | :--- | :--- |
+| **Arctic Code Vault Contributor** | 🔒 Legacy | Contributed code to repos archived in the Arctic World Archive (2020).<br>2020 北极代码存案纪念，已绝版。 |
+| **Mars 2020 Contributor** | 🔒 Legacy | Code used in NASA's Mars 2020 Helicopter mission.<br>代码被 NASA 火星任务使用，已绝版。 |
+
+---
+
+## 🛠 Tips & Tricks (小技巧)
+
+> [!TIP]
+> **Pair Extraordinaire (合作非凡)**
+> Add `Co-authored-by: Name <email>` to your commit message when committing with a friend to unlock this badge easily.
 > 
-> 如果这份攻略对你有帮助，请帮忙点个 **Star ⭐**！我需要 16 个 Star 来解锁 **Starstruck** 徽章！毕竟大家都是为了徽章来的嘛！😉
+> 在 Commit 信息中加入共同作者字段即可轻松解锁此徽章。
 
 ---
 
-## 🚀 Easy Start (新手必拿)
+## 🤝 Credits (致谢)
 
-### 1. Quickdraw (快手)
-**Description**: Close an issue or PR within 5 minutes of opening.
-**How to get**:
-1. Create a new repository.
-2. Create an Issue describing a fake bug.
-3. Immediately close it.
-**中文攻略**:
-1. 新建一个仓库。
-2. 提一个 Issue。
-3. 马上自己关闭它（5分钟内）。
+Created and maintained by [**@yuanweize**](https://github.com/yuanweize).
 
-### 2. YOLO
-**Description**: Merge a Pull Request without code review.
-**How to get**:
-1. Create a new branch in your repository.
-2. Make a change (e.g., update README).
-3. Create a PR.
-4. Merge it immediately by yourself (requires admin rights on repo).
-**中文攻略**:
-自己给自己的仓库提 PR，然后无需 Review 直接合并。最简单的就是改个标点符号。
+If you found this useful, please:
+1. **Star** this repository ⭐ (Help me get Starstruck!)
+2. **[Sponsor Me](https://github.com/sponsors/yuanweize)** 💖 (Get your Public Sponsor badge!)
 
-### 3. Public Sponsor (公开赞助者)
-**Description**: Sponsor an open source contributor.
-**How to get**:
-Find a developer with GitHub Sponsors enabled and sponsor them (even $1 counts!).
-**Pro Tip**: Find developers with custom amounts or $1 tiers.
-**中文攻略**:
-去赞助一个开源大佬。只要找那种支持 $1 或者自定义金额的，花几块钱人民币就能拿到。这可能是唯一需要“氪金”的徽章。
-
----
-
-## 🌟 Intermediate (进阶挑战)
-
-### 4. Pull Shark (合并鲨鱼)
-**Description**: Have Pull Requests merged.
-**Tiers**: 
-- 🥉 2 PRs merged
-- 🥈 16 PRs merged
-- 🥇 1024 PRs merged
-**How to get**: Keep contributing! Even fixing typos in docs counts.
-**中文攻略**:
-只要你的 PR 被合并就算。多去改改文档、修修错别字，很容易积攒。
-
-### 5. Galaxy Brain (银河大脑)
-**Description**: Get your answers accepted in GitHub Discussions.
-**Tiers**:
-- 🥉 2 Accepted Answers
-- 🥈 8 Accepted Answers
-- 🥇 16 Accepted Answers
-**How to get**:
-Look for repositories with "Discussions" enabled. Answer questions accurately. The author must mark your reply as the "Answer".
-**中文攻略**:
-去那些开了“Discussions”讨论区的仓库，回答别人的问题。只要提问者把你的回复标记为“Accepted Answer”即可。其实只要找个朋友配合一下，互相提问回答也能拿...（嘘）。
-
-### 6. Starstruck (星光熠熠)
-**Description**: Create a repository that gets enough stars.
-**Tiers**:
-- 🥉 16 Stars
-- 🥈 128 Stars
-- 🥇 512 Stars
-**How to get**: Create something useful! Consider "Awesome lists", "Cheatsheets" (like this one!), or small utility tools.
-**中文攻略**:
-你的某个仓库获得 16 个 Star 即可解锁铜牌。最快的方法就是整理一份干货（比如这份指南）然后分享给朋友！
-**(Please star this repo! 求求给个星吧！)**
-
----
-
-## 👽 Rare / Legacy (稀有/绝版)
-
-### Arctic Code Vault Contributor (北极源码库贡献者)
-**Status**: **Unobtainable (Legacy)**
-**Description**: Contributed code to repositories archived in the Arctic World Archive in 2020.
-**中文说明**: 绝版了。这是 2020 年 GitHub 把代码打包埋到北极地下时的纪念。
-
-### Mars 2020 Contributor (火星直升机贡献者)
-**Status**: **Unobtainable (Legacy)**
-**Description**: Contributed to open source projects used in the NASA Mars 2020 Helicopter mission.
-**中文说明**: 绝版了。你的代码被 NASA 上天的直升机用到了才能有。
-
----
-
-## 🛠 Tricks & Tips (小技巧)
-
-- **Pair Extraordinaire**: Use `Co-authored-by: Name <email>` in your commit message when committing with a friend. (在 Commit 信息里加上共同作者即可).
-- **External Events**: Some badges come from Hacktoberfest or other events. Watch out for October!
-
----
-
-*Generated for the community by [yuanweize](https://github.com/yuanweize).* 
 *Happy Hacking!*
