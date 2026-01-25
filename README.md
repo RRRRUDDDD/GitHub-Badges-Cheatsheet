@@ -7,9 +7,8 @@
 [![Stars](https://img.shields.io/github/stars/yuanweize/GitHub-Badges-Cheatsheet?style=flat-square)](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/stargazers)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yuanweize)
 
-**Unlock every GitHub verified achievement. / 解锁所有 GitHub 官方认证徽章。**
 
-[English](#english) | [中文](#chinese)
+**Unlock every GitHub verified achievement. / 解锁所有 GitHub 官方认证徽章。**
 
 </div>
 
@@ -32,9 +31,7 @@
 
 **Want this badge instantly? / 想要立刻拥有这个徽章吗？**
 
-<a href="https://github.com/sponsors/yuanweize">
-  <img src="https://github.githubassets.com/assets/sponsor-mona-635b75017dfc.png" width="100" />
-</a>
+[![Sponsor](https://img.shields.io/badge/-Sponsor-fafbfc?style=flat&logo=GitHub%20Sponsors&logoColor=ea4aaa&labelColor=white&scale=2)](https://github.com/sponsors/yuanweize)
 
 </div>
 
