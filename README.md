@@ -144,6 +144,30 @@ These are badges that appear in the "Highlights" section of your profile.
 > When you edit a file on GitHub.com and commit changes, simply paste the `Co-authored-by: ...` line into the **Extended description** box.
 > 在 GitHub 网页上修改文件时，把这行代码粘贴到提交界面的 **详细描述 (Extended description)** 框里即可。
 
+> [!IMPORTANT]
+> **🤝 Pay it Forward: Discussion & Galaxy Brain / 传递爱心：互助问答**
+>
+> Gets a `Galaxy Brain` badge? Or just got a helpful answer? **Don't stop there!**
+> Please **ask a new question** in the [Discussions](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/discussions) area for others to answer. Help them earn their badges too! **One Question for One Answer** — keep the community alive!
+>
+> 拿到了 `Galaxy Brain` 徽章？或者得到了满意的回答？**请把爱传递下去！**
+> 请在 [讨论区](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/discussions) **提一个新的问题** 供他人回答。帮助其他人也能获得徽章！**一问换一答**，让社区活跃起来！
+>
+> ---
+>
+> **🤖 Don't know what to ask? Ask AI to help you!**
+> **🤔 不知道问什么？复制下面的提示词给 AI！**
+>
+> *Copy & Paste this prompt to ChatGPT / Claude / DeepSeek:*
+> *复制并发送给 ChatGPT / Claude / DeepSeek:*
+>
+> ```text
+> I want to post a meaningful discussion question on the 'GitHub-Badges-Cheatsheet' repository community.
+> Please generate a creative, open-ended question related to GitHub achievements, profile customization,
+> or open source culture. The question should be engaging and allow others to easily answer it to earn
+> their 'Galaxy Brain' badge. Please provide the Question Title and Question Body directly.
+> ```
+
 ---
 
 ## 🤝 Credits (致谢)
